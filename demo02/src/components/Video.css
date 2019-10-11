@@ -1,0 +1,6 @@
+.sub ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  line-height: 60px;
+}
